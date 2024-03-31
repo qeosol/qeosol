@@ -1,2 +1,2 @@
-### hi, i'm evan
-focused on rust atm, not much else.
+### こんにちは、「qeosol」です。
+現在は「Rust」プログラミング言語に焦点を当てています。
